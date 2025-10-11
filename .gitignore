@@ -1,9 +1,14 @@
 # Data
+
+*.parquet
+*.pkl
 *.npy
 *.npz
 *.tar.gz
 *.pkl
 *.json
+
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
