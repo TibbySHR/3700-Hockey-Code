@@ -190,4 +190,4 @@ wandb.log_artifact(artifact)
 print("Modele enregistre dans le registre Wandb")
 
 run.finish()
-print("Experiment Wandb termine")
+
